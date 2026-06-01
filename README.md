@@ -1,6 +1,6 @@
 # University Coursework & Practical Projects
 
-Welcome to my repository containing practical assignments, laboratory works, and projects completed during my Bachelor's degree in [Computer Science] at [University of Craiova].
+Welcome to my repository containing practical assignments, laboratory works, and projects completed during my Bachelor's degree in Computer Science at University of Craiova.
 
 The main goal of this repository is to track my academic progress, showcase my problem-solving skills, and keep a clean record of the technologies I've learned.
 
